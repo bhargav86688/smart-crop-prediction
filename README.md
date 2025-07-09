@@ -44,6 +44,13 @@ Model files used:
 
 ---
 
+2. Install dependencies:
+```bash
+pip install flask pandas numpy scikit-learn joblib matplotlib jupyter
+
+
+
+
  💻 How to Run Locally
 
 1. **Clone the repository:**
